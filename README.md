@@ -14,3 +14,4 @@ Projeto desenvolvido durante a Jornada Python da Hashtag Treinamentos. Este bot 
 * Leitura de uma base de dados contendo múltiplos produtos.
 * Estrutura de repetição (`for`) para cadastrar item por item.
 * Inteligência de dados para ignorar campos de observação vazios (`NaN`), evitando erros de preenchimento.
+<img width="1920" height="1028" alt="Captura de Tela (33)" src="https://github.com/user-attachments/assets/290daacd-5f17-4bb6-848f-92ef1cfcc941" />
